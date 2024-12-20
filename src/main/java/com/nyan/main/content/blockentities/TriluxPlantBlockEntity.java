@@ -1,4 +1,4 @@
-package com.nyan.main.content;
+package com.nyan.main.content.blockentities;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.level.block.entity.BlockEntity;
